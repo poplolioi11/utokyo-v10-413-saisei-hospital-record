@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: Cite this dataset with its version and source shelfmark.
+type: dataset
+title: 濟生醫院記（漢文首篇，東京大學總合圖書館 V10:413） / Saisei iin ki [First Kanbun Account of Saisei
+  Hospital]
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+version: 0.1.0
+date-released: '2026-11-18'
+repository-code: https://github.com/poplolioi11/utokyo-v10-413-saisei-hospital-record
+license: CC-BY-4.0
+keywords:
+- Saisei Hospital
+- Sohaku Asada
+- History of Kanpo
+- Medical history
+- Meiji Japan
+- Kanbun
+- 濟生醫院記
+- 淺田宗伯

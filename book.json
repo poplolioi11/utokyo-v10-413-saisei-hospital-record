@@ -1,0 +1,717 @@
+{
+  "id": "utokyo-v10-413-saisei-hospital-record",
+  "title": "濟生醫院記（漢文首篇，東京大學總合圖書館 V10:413）",
+  "english_title": "Saisei iin ki [First Kanbun Account of Saisei Hospital]",
+  "version": "0.1.0",
+  "date": "2026-11-18",
+  "editor": {
+    "name": "Chu, Chen-Yu",
+    "orcid": "0009-0003-9738-6914"
+  },
+  "language": "lzh",
+  "historical_authors": [],
+  "rights_note": "Historical manuscript text is public domain. Editorial documentation and markup are CC BY 4.0 where applicable.",
+  "source": {
+    "citation": "東京大學總合圖書館鶚軒文庫藏 V10:413《濟生醫院記》。明治間抄本。首篇署年 1886。",
+    "catalog": "https://da.dl.itc.u-tokyo.ac.jp/portal/en/assets/074d0a5c-a212-682e-4a27-e6baabe81cef",
+    "manifest": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/manifest",
+    "holdings": "General Library, The University of Tokyo",
+    "shelfmark": "V10:413",
+    "historical_title": "濟生醫院記",
+    "scope_text_year": 1886,
+    "copy_year": null,
+    "scope_date_as_printed": "明治柔兆閹茂七月",
+    "origin": "日本下總國海上郡荒野村",
+    "facsimile_manifest_count": 19,
+    "manifest_sha256": "2c7a198336e185eda2db644e476568558c9c75d34d8f38188773ce4789fff77b",
+    "reuse_policy": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+  },
+  "coverage": {
+    "physical_faces": 4,
+    "column_units": 34,
+    "complete_book": false,
+    "included": "卷首漢文院記篇題至署款『識』",
+    "excluded": [
+      "署名後別筆評語",
+      "賀文及詩",
+      "全冊其他文字與藏印"
+    ]
+  },
+  "descriptive_layers": {
+    "body": "漢文主欄自右而左，保留日式慣用寫形。來源欄框為可回圖的工作區域。",
+    "coordinates": "原圖 2400×1785 像素，0-based x,y,width,height。",
+    "offsets": "Unicode code point ranges, zero-based half-open",
+    "annotations": "朱色欄線、背透與藏印只作範圍註記。"
+  },
+  "quality": {
+    "ai_assisted": true,
+    "human_full_double_collation": false,
+    "reference_accuracy_measurement": false,
+    "peer_reviewed": false
+  },
+  "sections": [
+    {
+      "id": "account",
+      "type": "account",
+      "label": "濟生醫院記"
+    }
+  ],
+  "pages": [
+    {
+      "id": "face-03L",
+      "canvas_index": 3,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/canvas/p3",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken/V10_413/V10_413_0003.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1785
+      ],
+      "source_sha256": "1f700427226649fd04e01b0b0d28826219c80581735cf40d90064419050ec083",
+      "scope_xywh": [
+        444,
+        168,
+        798,
+        1397
+      ]
+    },
+    {
+      "id": "face-04R",
+      "canvas_index": 4,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/canvas/p4",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken/V10_413/V10_413_0004.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1785
+      ],
+      "source_sha256": "eb6023124d19d338d8994fd8660e590433367a4a7a54a04c9ae25755180d970d",
+      "scope_xywh": [
+        1442,
+        377,
+        773,
+        1138
+      ]
+    },
+    {
+      "id": "face-04L",
+      "canvas_index": 4,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/canvas/p4",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken/V10_413/V10_413_0004.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1785
+      ],
+      "source_sha256": "eb6023124d19d338d8994fd8660e590433367a4a7a54a04c9ae25755180d970d",
+      "scope_xywh": [
+        450,
+        377,
+        753,
+        1138
+      ]
+    },
+    {
+      "id": "face-05R-c01-04",
+      "canvas_index": 5,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/canvas/p5",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken/V10_413/V10_413_0005.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1785
+      ],
+      "source_sha256": "38fb62c1c0c469a02cf66038f0ee24d4fd58a8c853287b053306d119aabcdedd",
+      "scope_xywh": [
+        1889,
+        402,
+        310,
+        1100
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "line-03L-c01",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 1,
+      "role": "title",
+      "text": "濟生醫院記",
+      "xywh": [
+        1110,
+        552,
+        66,
+        372
+      ]
+    },
+    {
+      "id": "line-03L-c02",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 2,
+      "role": "body",
+      "text": "濟生医院在于下總國海上郡荒野村栗園",
+      "xywh": [
+        1038,
+        410,
+        66,
+        1067
+      ]
+    },
+    {
+      "id": "line-03L-c03",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 3,
+      "role": "body",
+      "text": "淺田宗伯先生之所設而門人林君靜斎之",
+      "xywh": [
+        962,
+        410,
+        66,
+        1067
+      ]
+    },
+    {
+      "id": "line-03L-c04",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 4,
+      "role": "body",
+      "text": "所幹也院之名濟生蓋非偶然也抑人處世",
+      "xywh": [
+        891,
+        410,
+        66,
+        1067
+      ]
+    },
+    {
+      "id": "line-03L-c05",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 5,
+      "role": "body",
+      "text": "所以其為最幸者何也健康是而已今夫学",
+      "xywh": [
+        821,
+        410,
+        66,
+        1067
+      ],
+      "editorial_note": "欄底從三點與子形，屬日式慣用寫形。"
+    },
+    {
+      "id": "line-03L-c06",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 6,
+      "role": "body",
+      "text": "通古今才識内外經歴天下交契豪傑詳明",
+      "xywh": [
+        753,
+        410,
+        66,
+        1067
+      ]
+    },
+    {
+      "id": "line-03L-c07",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 7,
+      "role": "body",
+      "text": "治亂矯正流俗者而身有疾病豈得展其學",
+      "xywh": [
+        680,
+        410,
+        66,
+        1067
+      ]
+    },
+    {
+      "id": "line-03L-c08",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 8,
+      "role": "body",
+      "text": "与才哉今夫智度天地勇盍海山席卷宇内",
+      "xywh": [
+        611,
+        410,
+        66,
+        1067
+      ],
+      "uncertainties": [
+        {
+          "start": 10,
+          "end": 11,
+          "reading": "盍",
+          "alternatives": [
+            "蓋"
+          ],
+          "basis": "圖上底部近皿，字頭形體不完整。"
+        }
+      ]
+    },
+    {
+      "id": "line-03L-c09",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 9,
+      "role": "body",
+      "text": "籠絡群雄攻伐必勝盡策必成而身有疾病",
+      "xywh": [
+        541,
+        410,
+        66,
+        1067
+      ],
+      "uncertainties": [
+        {
+          "start": 8,
+          "end": 9,
+          "reading": "盡",
+          "alternatives": [
+            "畫"
+          ],
+          "basis": "圖面下形有橫線與分隔筆，兩讀待覆核。"
+        }
+      ]
+    },
+    {
+      "id": "line-03L-c10",
+      "page_id": "face-03L",
+      "section": "account",
+      "column": 10,
+      "role": "body",
+      "text": "豈得運其智与勇哉今夫陶朱之富懸肉為",
+      "xywh": [
+        466,
+        410,
+        66,
+        1067
+      ],
+      "editorial_note": "高倍率欄影下，得後字內較近軍形，兩讀仍需覆核。",
+      "uncertainties": [
+        {
+          "start": 2,
+          "end": 3,
+          "reading": "運",
+          "alternatives": [
+            "逞"
+          ],
+          "basis": "走之內書寫連筆，故保留另一讀。"
+        }
+      ]
+    },
+    {
+      "id": "line-04R-c01",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 1,
+      "role": "body",
+      "text": "林酌酒為池絲竹奏音解花献眉而四体羸弱豈",
+      "xywh": [
+        2086,
+        420,
+        66,
+        1069
+      ],
+      "uncertainties": [
+        {
+          "start": 9,
+          "end": 13,
+          "reading": "解花献眉",
+          "alternatives": [
+            "解衣軒眉"
+          ],
+          "basis": "首讀保留花及献的慣用寫形，相關連筆仍難定。"
+        }
+      ]
+    },
+    {
+      "id": "line-04R-c02",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 2,
+      "role": "body",
+      "text": "足慰其心哉今夫文武之基威徳赫烈湛澤浹洽",
+      "xywh": [
+        2015,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c03",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 3,
+      "role": "body",
+      "text": "政令雲行教化雨布而四体羸弱豈足樂其意",
+      "xywh": [
+        1942,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c04",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 4,
+      "role": "body",
+      "text": "哉故苟人而無不希壽康而憂羸弱也而使",
+      "xywh": [
+        1871,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c05",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 5,
+      "role": "body",
+      "text": "得欲保有此二者而保人生之最幸非濟生者",
+      "xywh": [
+        1800,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c06",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 6,
+      "role": "body",
+      "text": "而何乎是所以有此院也明治維新制度一變",
+      "xywh": [
+        1731,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c07",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 7,
+      "role": "body",
+      "text": "百般之事皆取法於歐米諸州而刀圭之術亦尤",
+      "xywh": [
+        1661,
+        420,
+        66,
+        1069
+      ],
+      "editorial_note": "尤上另有一完整亦字。"
+    },
+    {
+      "id": "line-04R-c08",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 8,
+      "role": "body",
+      "text": "尚西説如其器用之利解剖之能則以為前古",
+      "xywh": [
+        1591,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c09",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 9,
+      "role": "body",
+      "text": "未曽有而目國醫以迂遠醫道之衰替極矣蓋",
+      "xywh": [
+        1520,
+        420,
+        66,
+        1069
+      ]
+    },
+    {
+      "id": "line-04R-c10",
+      "page_id": "face-04R",
+      "section": "account",
+      "column": 10,
+      "role": "body",
+      "text": "古者丹波雅忠割皮解肌結筋擣髓華陀破腹",
+      "xywh": [
+        1454,
+        420,
+        66,
+        1069
+      ],
+      "uncertainties": [
+        {
+          "start": 12,
+          "end": 14,
+          "reading": "擣髓",
+          "alternatives": [
+            "摘腫"
+          ],
+          "basis": "左手旁及後字右件可見，墨筆連字。"
+        }
+      ]
+    },
+    {
+      "id": "line-04L-c01",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 1,
+      "role": "body",
+      "text": "取病復為縫之此皆西人所謂窮極精能者而古",
+      "xywh": [
+        1121,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c02",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 2,
+      "role": "body",
+      "text": "之医於數千年前固既為之國医未必不若西医",
+      "xywh": [
+        1052,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c03",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 3,
+      "role": "body",
+      "text": "也栗園先生当今之大医於舉世溺没之時堅",
+      "xywh": [
+        980,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c04",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 4,
+      "role": "body",
+      "text": "守故説百折不變欲興斯道之衰替屈子所謂",
+      "xywh": [
+        908,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c05",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 5,
+      "role": "body",
+      "text": "世皆濁我独清衆皆醉我獨醒者而林君亦勉",
+      "xywh": [
+        834,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c06",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 6,
+      "role": "body",
+      "text": "強從事能体先生之意豈非有所見而不為異",
+      "xywh": [
+        765,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c07",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 7,
+      "role": "body",
+      "text": "説所動揺何能如此耶然則國醫之術復毅然振",
+      "xywh": [
+        695,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c08",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 8,
+      "role": "body",
+      "text": "起而此院之隆盛可期而待矣况於其濟生者乎",
+      "xywh": [
+        626,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c09",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 9,
+      "role": "body",
+      "text": "今茲七月土木竣功以三日挙開院之典我師歐波",
+      "xywh": [
+        554,
+        405,
+        66,
+        1085
+      ]
+    },
+    {
+      "id": "line-04L-c10",
+      "page_id": "face-04L",
+      "section": "account",
+      "column": 10,
+      "role": "body",
+      "text": "先生与栗園先生有故而又知林君矣令子胤",
+      "xywh": [
+        484,
+        405,
+        66,
+        1085
+      ],
+      "editorial_note": "左側末欄看到令頂與下一個子形，原稿此處以令子相稱。"
+    },
+    {
+      "id": "line-05R-c01",
+      "page_id": "face-05R-c01-04",
+      "section": "account",
+      "column": 1,
+      "role": "body",
+      "text": "寬君松陰為祝詞使予綴筆焉予淺學菲才",
+      "xywh": [
+        2097,
+        418,
+        66,
+        1055
+      ],
+      "uncertainties": [
+        {
+          "start": 9,
+          "end": 10,
+          "reading": "綴",
+          "alternatives": [],
+          "basis": "字左從糸旁形，右下可見連筆。"
+        }
+      ]
+    },
+    {
+      "id": "line-05R-c02",
+      "page_id": "face-05R-c01-04",
+      "section": "account",
+      "column": 2,
+      "role": "body",
+      "text": "何足與之然誼不可辭因書平生之持論以為",
+      "xywh": [
+        2026,
+        418,
+        66,
+        1055
+      ]
+    },
+    {
+      "id": "line-05R-c03",
+      "page_id": "face-05R-c01-04",
+      "section": "account",
+      "column": 3,
+      "role": "closing-signature",
+      "text": "記明治柔兆閹茂七月北總松渚漁史宮内彬謹",
+      "xywh": [
+        1956,
+        418,
+        66,
+        1055
+      ],
+      "editorial_note": "館圖見水旁右件下近日形。依圖暫讀渚，保留浦候選。",
+      "roles_in_column": [
+        {
+          "role": "text_end",
+          "start": 0,
+          "end": 1
+        },
+        {
+          "role": "signature",
+          "start": 1,
+          "end": 19
+        }
+      ],
+      "uncertainties": [
+        {
+          "start": 12,
+          "end": 13,
+          "reading": "渚",
+          "alternatives": [
+            "浦"
+          ],
+          "basis": "水旁右件有下部閉形，暫讀渚。"
+        },
+        {
+          "start": 17,
+          "end": 18,
+          "reading": "彬",
+          "alternatives": [
+            "柳"
+          ],
+          "basis": "署名中，疑有木與彡形。"
+        },
+        {
+          "start": 18,
+          "end": 19,
+          "reading": "謹",
+          "alternatives": [
+            "譚"
+          ],
+          "basis": "末字因行末筆畫重，暫讀謹。"
+        }
+      ]
+    },
+    {
+      "id": "line-05R-c04",
+      "page_id": "face-05R-c01-04",
+      "section": "account",
+      "column": 4,
+      "role": "closing-signature",
+      "text": "識",
+      "xywh": [
+        1889,
+        421,
+        66,
+        82
+      ]
+    }
+  ]
+}
