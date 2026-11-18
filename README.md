@@ -7,3 +7,5 @@
 本版收漢文首篇至署款「識」，共四個書面區、34 欄。提供逐欄及連讀 TXT、JSON、TEI P5 與原圖定位。以兩份 AI 影像初稿比對並回圖，疑讀留候選。尚無人類全文雙校、專家審定或準確率量測。
 
 [東大館目](https://da.dl.itc.u-tokyo.ac.jp/portal/en/assets/074d0a5c-a212-682e-4a27-e6baabe81cef) · [IIIF manifest](https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/074d0a5c-a212-682e-4a27-e6baabe81cef/manifest)
+
+[Zenodo v0.1.0 固定封存](https://doi.org/10.5281/zenodo.24345791) · [資料集各版](https://doi.org/10.5281/zenodo.24345790)
